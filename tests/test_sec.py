@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 
-import requests
+from pywe_wxa_sec.pywxasec import Security, img_sec_check, msg_sec_check
 
 from local_wecfg_example import CONTENT, IMAGE_PATH, WECHAT
-from pywe_wxa_sec.pywxasec import Security, img_sec_check, msg_sec_check
 
 
 class TestSecCommands(object):

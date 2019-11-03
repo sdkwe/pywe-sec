@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 WECHAT = {
-    'JSAPI': {
+    'WXA': {
         'token': '5201314',
         'appID': 'appID',
         'appsecret': 'appsecret',

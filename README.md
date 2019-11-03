@@ -4,7 +4,7 @@ Wechat MiniProgram Security Module for Python.
 
 # Sandbox
 
-* https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+* https://developers.weixin.qq.com/sandbox
 
 # Installation
 
@@ -15,7 +15,7 @@ pip install pywe-wxa-sec
 # Usage
 
 ```python
-from pywe_wxa_sec.pywxasec import Security, msg_sec_check, img_sec_check, media_check_async, audio_check_async, img_check_async
+from pywe_wxa_sec import Security, msg_sec_check, img_sec_check, media_check_async, audio_check_async, img_check_async
 ```
 
 # Method
